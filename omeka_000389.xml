@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000389</identifier>
+   <titleInfo>
+      <title>Memorandum for Frances Perkins, from Governor Franklin Roosevelt, with Felix Frankfurter document attached</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1930-04-22</dateCreated>
+      <dateCreated>April 22, 1930</dateCreated>
+      <place>
+        <placeTerm type="text">Albany, New York</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/perkins/governor-roosevelt/with-governor-roosevelt</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Box 61</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Frances Perkins: The Woman Behind the New Deal</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0136</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Frances Perkins Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note>original filename: 090074090.tif</note>
+   <note>original filename: 090074091.tif</note>
+   <name>
+      <namePart>New York (State). Governor (1929-1932 : Roosevelt)</namePart>
+    </name>
+   <name>
+      <namePart>Frankfurter, Felix, 1882-1965</namePart>
+    </name>
+   <subject>
+      <topic>Perkins, Frances, 1880-1965</topic>
+      <topic>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</topic>
+      <topic>New York (State). Governor (1929-1932 : Roosevelt)</topic>
+      <topic>Frankfurter, Felix, 1882-1965</topic>
+      <geographic>Albany, New York</geographic>
+    </subject>
+   <abstract>Felix Frankfurter here sends Governor Franklin Roosevelt the draft of a challenge to President Hoover on the country’s unemployment situation, writing: “The latest official utterance on unemployment from the White House … follows out the prediction made two months earlier and assures the country that the crises is virtually passed. The President’s informants are ‘governors and mayors all over the country,’ who ‘with one exception,’ are agreed that the worst is over. That exception obviously is the State of New York.” Roosevelt forwards this draft on to Frances Perkins.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

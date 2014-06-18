@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000392</identifier>
+   <titleInfo>
+      <title>Fiscal History</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1909-10</dateCreated>
+      <dateCreated>October 1909</dateCreated>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/perkins/early-years---family/columbia</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Box 121</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Frances Perkins: The Woman Behind the New Deal</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0136</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Frances Perkins Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Susanna Perkins Coggeshall, 1973</note>
+   <note>original filename: 090074107.tif</note>
+   <note>original filename: 090074108.tif</note>
+   <note>original filename: 090074109.tif</note>
+   <name>
+      <namePart>Perkins, Frances, 1880-1965</namePart>
+    </name>
+   <subject>
+      <topic>Perkins, Frances, 1880-1965</topic>
+      <topic>Seligman, Edwin R. A. (Edwin Robert Anderson), 1861-1939</topic>
+      <geographic>New York</geographic>
+    </subject>
+   <abstract>Frances Perkins' class notes for Economics 107 : Fiscal History, taught by Edwin Seligman at Columbia University</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

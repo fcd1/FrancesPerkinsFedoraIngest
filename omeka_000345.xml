@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000345</identifier>
+   <titleInfo>
+      <title>Secretary Perkins Investigates Mining Area, photograph and caption</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1940-04-25</dateCreated>
+      <dateCreated>April 25, 1940</dateCreated>
+      <publisher>Credit Line (Acme) East</publisher>
+      <place>
+        <placeTerm type="text">Vinita, Oklahoma</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/perkins/working-conditions/a-good-job</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Box 100, Envelope Unidentified</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Frances Perkins: The Woman Behind the New Deal</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0136</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Frances Perkins Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Frances Perkins</note>
+   <note>original filename: 090074030.tif</note>
+   <subject>
+      <topic>Perkins, Frances, 1880-1965</topic>
+      <topic>Vinita, Oklahoma</topic>
+    </subject>
+   <abstract>The caption for this photograph is as follows: “Conflicting reports of housing and labor conditions in Oklahoma and Missouri mining areas brought Secretary of labor Frances Perkins to the district on a tour of inspection. She is shown [here] as she entered a mine shaft near here to examine working conditions under ground.”</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

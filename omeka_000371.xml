@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000371</identifier>
+   <titleInfo>
+      <title>Testimonial Dinner to Honor Frances Perkins, cover and table of contents</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1933-03-24</dateCreated>
+      <dateCreated>March 24, 1933</dateCreated>
+      <publisher>Sills Reporting Service</publisher>
+      <place>
+        <placeTerm type="text">Hotel Commodore, New York City</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/perkins/president-roosevelt/the-new-administration</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Box 46</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Frances Perkins: The Woman Behind the New Deal</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0136</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Frances Perkins Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Frances Perkins</note>
+   <note>original filename: 090074052.tif</note>
+   <note>original filename: 090074053.tif</note>
+   <name>
+      <namePart>Perkins, Frances, 1880-1965</namePart>
+    </name>
+   <name>
+      <namePart>Alger, George W. (George William), 1872-</namePart>
+    </name>
+   <name>
+      <namePart>League of Women Voters (U.S.)</namePart>
+    </name>
+   <name>
+      <namePart>Hillman, Sidney, 1887-1946</namePart>
+    </name>
+   <name>
+      <namePart>Amalgamated Clothing Workers of America</namePart>
+    </name>
+   <name>
+      <namePart>Eastman Kodak Company</namePart>
+    </name>
+   <name>
+      <namePart>Women's Trade Union League</namePart>
+    </name>
+   <name>
+      <namePart>Farley, James A. (James Aloysius), 1888-1976</namePart>
+    </name>
+   <name>
+      <namePart>Straus, Jesse Isidor, 1872-1936</namePart>
+    </name>
+   <name>
+      <namePart>American Federation of Labor</namePart>
+    </name>
+   <name>
+      <namePart>Roosevelt, Eleanor, 1884-1962</namePart>
+    </name>
+   <subject>
+      <topic>Perkins, Frances, 1880-1965</topic>
+      <geographic>New York City</geographic>
+    </subject>
+   <abstract>"Testimonial Dinner to Hon. Frances Perkins, Secretary of Labor or the United States, given by labor organizations, women's clubs, civic and social groups of New York City; Hotel Commodore, New York City" taken from cover.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

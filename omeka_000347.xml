@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000347</identifier>
+   <titleInfo>
+      <title>Fala, President Franklin Roosevelt's Dog, Listening to a Radio, photograph and two captions</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1944-07-21</dateCreated>
+      <dateCreated>July 21, 1944</dateCreated>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/perkins/president-roosevelt/life-in-washington</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Box 61, FDR</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Frances Perkins: The Woman Behind the New Deal</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0136</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Frances Perkins Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Frances Perkins</note>
+   <note>original filename: 090074033.tif</note>
+   <note>original filename: 090074034.tif</note>
+   <note>original filename: 090074035.tif</note>
+   <subject>
+      <topic>United States. President (1933-1945 : Roosevelt)</topic>
+      <topic>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</topic>
+      <topic>Los Angeles</topic>
+    </subject>
+   <abstract>In this photograph of Fala, kept by Perkins, President Roosevelt’s Scotty “bends an attentive ear to a portable radio on a railroad station platform at a Pacific Coast naval base as he listens to his master accepting a fourth term nomination.” Includes two captions.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

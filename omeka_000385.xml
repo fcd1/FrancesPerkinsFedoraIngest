@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000385</identifier>
+   <titleInfo>
+      <title>Luncheon of the Consumers' League of New York</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>pamphlets</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1929-03-01</dateCreated>
+      <dateCreated>March 1, 1929</dateCreated>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/perkins/governor-roosevelt/with-governor-roosevelt</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Box 121A</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Frances Perkins: The Woman Behind the New Deal</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0136</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Frances Perkins Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Susanna Perkins Coggeshall, 1970</note>
+   <note>original filename: 090074077.tif</note>
+   <note>original filename: 090074078.tif</note>
+   <note>original filename: 090074079.tif</note>
+   <note>original filename: 090074080.tif</note>
+   <note>original filename: 090074081.tif</note>
+   <note>original filename: 090074082.tif</note>
+   <name>
+      <namePart>Perkins, Frances, 1880-1965</namePart>
+    </name>
+   <name>
+      <namePart>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</namePart>
+    </name>
+   <subject>
+      <topic>Perkins, Frances, 1880-1965</topic>
+      <topic>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</topic>
+      <topic>Consumers' League of New York City</topic>
+      <geographic>New York</geographic>
+    </subject>
+   <abstract>Typescript of the speeches given at a meeting of the Consumers' League of New York City, held at the Hotel Commodore. Then New York State Governor Franklin Roosevelt and New York State Industrial Commissioner Frances Perkins spoke at the event.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

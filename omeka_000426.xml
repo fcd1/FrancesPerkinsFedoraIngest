@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000426</identifier>
+   <titleInfo>
+      <title>Letter to Secretary of Labor Frances Perkins on behalf of President Franklin Roosevelt concerning the attached telegram sent to the President</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1936-09-09</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1936-09-10</dateCreated>
+      <dateCreated>September 9 and 10, 1936</dateCreated>
+      <place>
+        <placeTerm type="text">San Francisco, California</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Washington</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/perkins/trade-unions---strikes/strikes</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Box 61</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Frances Perkins: The Woman Behind the New Deal</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0136</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Frances Perkins Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Frances Perkins</note>
+   <note>original filename: 090074193.tif</note>
+   <note>original filename: 090074194.tif</note>
+   <name>
+      <namePart>United States. President (1933-1945 : Roosevelt)</namePart>
+    </name>
+   <name>
+      <namePart>Perkins, Frances, 1880-1965</namePart>
+    </name>
+   <name>
+      <namePart>Early, Stephen T. (Stephen Tyree), 1889-1951</namePart>
+    </name>
+   <subject>
+      <topic>President Hoover (Steamship)</topic>
+    </subject>
+   <abstract>Stephen Early, secretary to President Franklin Roosevelt, forwarded to Secretary of Labor Frances Perkins a telegram from the passengers of the SS President Hoover. The ship was unable to land in San Francisco due to the Pacific Coast Longshoremen's Strike of 1936. In Early's memo to Perkins, on behalf of the president, Perkins is asked to give the telegram and the situation 'consideration and appropriate action'.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000343</identifier>
+   <titleInfo>
+      <title>Frances Perkins shakes hands with workers at Todd Shipyards</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1941-03-29</dateCreated>
+      <dateCreated>March 29, 1941</dateCreated>
+      <place>
+        <placeTerm type="text">Richmond, California</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/perkins/trade-unions---strikes/trade-unions---strikes</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Box 100, Envelope Unidentified</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Frances Perkins: The Woman Behind the New Deal</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0136</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Frances Perkins Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Frances Perkins</note>
+   <note>original filename: 090074028.tif</note>
+   <subject>
+      <topic>Perkins, Frances, 1880-1965</topic>
+      <topic>Todd Shipyards Corporation</topic>
+      <topic>Todd Shipyards Richmond, CA</topic>
+    </subject>
+   <abstract>Frances Perkins wrote on the verso of the photograph above left: “The first view of Henry Kaiser’s latest Mud &amp; hope.” His Richmond shipyard became famous for producing cargo ships, known as Liberty ships, on the average of one every 45 days, and by November, 1942, production had been cut to just 14 and ½ days.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

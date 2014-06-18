@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000445</identifier>
+   <titleInfo>
+      <title>Statement by Mount Holyoke President Mary Wooley on Secretary of Labor Frances Perkins' ancestry and marriage</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1936-04</dateCreated>
+      <dateCreated>April 1936</dateCreated>
+      <place>
+        <placeTerm type="text">South Hadley, Massachusetts</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/perkins/immigration---impeachment/immigration</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Box 107</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Frances Perkins: The Woman Behind the New Deal</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0136</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Frances Perkins Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Susanna Perkins Coggeshall, 1973</note>
+   <note>original filename: 090074222.tif</note>
+   <note>original filename: 090074223.tif</note>
+   <name>
+      <namePart>Woolley, Mary Emma, 1863-1947</namePart>
+    </name>
+   <subject>
+      <topic>Perkins, Frances, 1880-1965</topic>
+    </subject>
+   <abstract>Mount Holyoke President Mary Wooley presented this statement, probably to the House Judiciary Committee, writing: “As a believer in fair play I respectfully request that your committee investigate … who is responsible for the widespread distribution of these false and evidently maliciously intended statements, which for some unknown reason have been directed at an able, honorable and patriotic public official who has made an exceptional record as an administrator and is generally recognized as the most capable Secretary of Labor in the history of that department.”</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

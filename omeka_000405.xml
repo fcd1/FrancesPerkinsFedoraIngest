@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000405</identifier>
+   <titleInfo>
+      <title>National Industrial Recovery Act, chart 1</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1933-05-24</dateCreated>
+      <dateCreated>May 24, 1933</dateCreated>
+      <place>
+        <placeTerm type="text">Washington, DC</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/perkins/national-recovery/national-recovery</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Box 75</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Frances Perkins: The Woman Behind the New Deal</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0136</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Frances Perkins Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Frances Perkins</note>
+   <note>original filename: 090074144.tif</note>
+   <name>
+      <namePart>United States. Bureau of Foreign and Domestic Commerce</namePart>
+    </name>
+   <name>
+      <namePart>National Association of Manufacturers (U.S.)</namePart>
+    </name>
+   <subject>
+      <topic>United States. National Industrial Recovery Act of 1933</topic>
+    </subject>
+   <abstract>This chart of Senate Bill No. 1712 and HR Bill No. 5664, 73rd Congress, 1st Session, shows clearly the two-part nature of the “National Industrial Recovery Act:” the “Mobilization of Industry into Trade Associations,” and “A Huge $3,300,000,000 Program of Public-Works Construction.” The program would be administered by the National Recovery Administration (NRA) and the Public Works Administration (PWA).
+
+Statement of responsibility in bottom left corner of chart #1 is illegible.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

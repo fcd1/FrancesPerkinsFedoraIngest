@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000346</identifier>
+   <titleInfo>
+      <title>President Franklin Delano Roosevelt signing the Social Security Bill, photograph and caption</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1935-08-15</dateCreated>
+      <dateCreated>August 15, 1935</dateCreated>
+      <place>
+        <placeTerm type="text">White House</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/perkins/social-security/the-roots-of-social-security</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Box 61, FDR</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Frances Perkins: The Woman Behind the New Deal</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0136</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Frances Perkins Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Frances Perkins</note>
+   <note>original filename: 090074031.tif</note>
+   <note>original filename: 090074032.tif</note>
+   <name>
+      <namePart>Wide World</namePart>
+    </name>
+   <subject>
+      <topic>United States. Social Security Act</topic>
+      <topic>United States. President (1933-1945 : Roosevelt)</topic>
+      <topic>Perkins, Frances, 1880-1965</topic>
+      <topic>Doughton, Robert Lee, 1863-1954</topic>
+      <topic>Wagner, Robert F. (Robert Ferdinand), 1877-1953</topic>
+      <topic>King, William Henry, 1863-1949</topic>
+      <topic>Lewis, David J. (David John), 1869-1952</topic>
+      <topic>Hill, Sam B. (Sam Billingsley), 1875-1958</topic>
+      <topic>Harrison, Pat, 1881-1941</topic>
+      <topic>Washington</topic>
+    </subject>
+   <abstract>Photograph and caption of President Franklin Delano Roosevelt signing the Social Security Act.
+
+Caption gives date of "3-14-35" for signing of the Act, although President Roosevelt signed the Act on 9-15-35</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

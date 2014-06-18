@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000436</identifier>
+   <titleInfo>
+      <title>Telegram to Secretary of Labor Frances Perkins concerning Emma Goldman's admittance into the United States</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1934-04-05</dateCreated>
+      <dateCreated>April 5, 1934</dateCreated>
+      <place>
+        <placeTerm type="text">Chicago</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/perkins/immigration---impeachment/immigration-and-impeachment</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Box 73</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Frances Perkins: The Woman Behind the New Deal</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0136</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Frances Perkins Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Frances Perkins</note>
+   <note>original filename: 090074208.tif</note>
+   <note>original filename: 090074209.tif</note>
+   <name>
+      <namePart>Perkins, Frances, 1880-1965</namePart>
+    </name>
+   <name>
+      <namePart>Abbott, Edith, 1876-1957</namePart>
+    </name>
+   <name>
+      <namePart>Breckinridge, Sophonisba Preston, 1866-1948</namePart>
+    </name>
+   <name>
+      <namePart>Freehof, Solomon Bennett, 1892-1990</namePart>
+    </name>
+   <name>
+      <namePart>Gilkey, Charles W. (Charles Whitney), 1882-1968</namePart>
+    </name>
+   <name>
+      <namePart>Haydon, A. Eustace (Albert Eustace), 1880-1975</namePart>
+    </name>
+   <name>
+      <namePart>Smith, Thomas Vernor, 1890-1964</namePart>
+    </name>
+   <name>
+      <namePart>Reese, Curtis W. (Curtis Williford), 1887- 1961</namePart>
+    </name>
+   <name>
+      <namePart>Lovett, Robert Morss, 1870-1956</namePart>
+    </name>
+   <name>
+      <namePart>Schevill, Ferdinand, 1868-1954</namePart>
+    </name>
+   <name>
+      <namePart>Bridges, Horace J. (Horace James), 1880-1955</namePart>
+    </name>
+   <name>
+      <namePart>Morris, Charles W. (Charles William), 1903-1979</namePart>
+    </name>
+   <name>
+      <namePart>Mann, Louis L. (Louis Leopold), 1890-</namePart>
+    </name>
+   <name>
+      <namePart>Bradley, Preston, 1888-</namePart>
+    </name>
+   <subject>
+      <topic>Goldman, Emma, 1869-1940</topic>
+    </subject>
+   <abstract>A telegram in favor of extending Emma Goldman's visa, signed by many members of the University of Chicago faculty and religious leaders around Chicago. The name of Edith Abbott, professor at the School of Social Administration at the University of Chicago, is spelled "Abbot" in the telegram.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000387</identifier>
+   <titleInfo>
+      <title>Governor addressed a communication to Chambers of Commerce and Labor Leaders all over the State with reference to unemployment conditions.</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="inferred">1930-01</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1930-06</dateCreated>
+      <dateCreated>In the Spring of 1930</dateCreated>
+      <place>
+        <placeTerm type="text">Albany, New York</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/perkins/governor-roosevelt/with-governor-roosevelt</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Box 106C</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Frances Perkins: The Woman Behind the New Deal</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0136</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Frances Perkins Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Susanna Perkins Coggeshall, 1970</note>
+   <note>original filename: 090074084.tif</note>
+   <note>original filename: 090074085.tif</note>
+   <note>original filename: 090074086.tif</note>
+   <note>original filename: 090074087.tif</note>
+   <note>original filename: 090074088.tif</note>
+   <name>
+      <namePart>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</namePart>
+    </name>
+   <subject>
+      <topic>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</topic>
+      <topic>New York (State). Governor (1929-1932 : Roosevelt)</topic>
+      <topic>Perkins, Frances, 1880-1965</topic>
+      <geographic>Albany</geographic>
+    </subject>
+   <abstract>Governor Franklin Roosevelt here appoints a special committee to address the issues of unemployment in New York State, with the Industrial Commissioner, Frances Perkins, to serve as an ex-officio member, working toward industrial stabilization and the prevention of unemployment.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

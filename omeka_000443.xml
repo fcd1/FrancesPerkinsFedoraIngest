@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000443</identifier>
+   <titleInfo>
+      <title>Statement before the House Judiciary Committee in reply to House Resolution 67, Impeachment of Frances Perkins, pages 1 to 3</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1939-02-08</dateCreated>
+      <dateCreated>February 8, 1939</dateCreated>
+      <place>
+        <placeTerm type="text">Washington</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/perkins/immigration---impeachment/immigration-and-impeachment</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Speeches and Articles Feb. 8, 1939</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Frances Perkins: The Woman Behind the New Deal</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0136</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Frances Perkins Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Frances Perkins</note>
+   <note>original filename: 090074218.tif</note>
+   <note>original filename: 090074219.tif</note>
+   <note>original filename: 090074220.tif</note>
+   <name>
+      <namePart>Perkins, Frances, 1880-1965</namePart>
+    </name>
+   <subject>
+      <topic>United States. Congress (76th : 1939-1941)</topic>
+      <topic>Perkins, Frances, 1880-1965</topic>
+    </subject>
+   <abstract>This eight-page typescript appears to be the copy that Perkins used in her hearing before the House Judiciary Committee. In conclusion, she stated: “It is because I share the confidence of other Americans in the capacity of our institutions to protect me against injustice that I have satisfaction in the consideration of these charges, and my denial of them … This faith exists and must be confirmed daily by those of us who hold high office so that liberty may not perish from the land.”</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

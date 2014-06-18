@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000425</identifier>
+   <titleInfo>
+      <title>Copy of telegram from President Franklin Roosevelt to Secretary of Labor Frances Perkins about Pacific Coast Strike</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1934-03</dateCreated>
+      <dateCreated>circa March 1934</dateCreated>
+      <place>
+        <placeTerm type="text">on board USS Houston</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/perkins/trade-unions---strikes/strikes</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Box 106C</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Frances Perkins: The Woman Behind the New Deal</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?lweb0136</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Frances Perkins Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Susanna Perkins Coggeshall, 1970</note>
+   <note>original filename: 090074192.tif</note>
+   <name>
+      <namePart>United States. President (1933-1945 : Roosevelt)</namePart>
+    </name>
+   <name>
+      <namePart>Perkins, Frances, 1880-1965</namePart>
+    </name>
+   <subject>
+      <topic>Pacific Coast Longshoremen's Strike, 1934</topic>
+    </subject>
+   <abstract>During the Pacific Coast strike of 1934, that began on May 9, Roosevelt was vacationing on the USS Houston, sailing from Norfolk to Hawaii via the Panama Canal. Here he sends Perkins instructions, writing: “If you think advisable you can issue any statement or offer as coming from me or with my approval.” Although there were calls for him to return to Washington, as he notes here, “it is at present best for me not to consider change my itinerary.”</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>
