@@ -16,7 +16,7 @@
       <dateCreated>April 19, 1934</dateCreated>
     </originInfo>
    <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
             <shelfLocator>Box 22</shelfLocator>

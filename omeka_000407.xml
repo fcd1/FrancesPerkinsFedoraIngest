@@ -20,7 +20,7 @@
       <dateCreated>1918-1919</dateCreated>
     </originInfo>
    <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/perkins/al-smith/with-governor-smith</url>
       <holdingSimple>
         <copyInformation>

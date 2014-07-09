@@ -16,7 +16,7 @@
       <dateCreated>September 21, 1944</dateCreated>
     </originInfo>
    <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
             <shelfLocator>Box 66</shelfLocator>

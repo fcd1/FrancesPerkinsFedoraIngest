@@ -20,7 +20,7 @@
       </place>
     </originInfo>
    <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
             <shelfLocator>Box 100, Envelope Unidentified</shelfLocator>

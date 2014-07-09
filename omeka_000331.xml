@@ -20,7 +20,7 @@
       <dateCreated>between 1933 and 1965</dateCreated>
     </originInfo>
    <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
             <shelfLocator>Box 150A, Envelope Frances Perkins Official Photos</shelfLocator>

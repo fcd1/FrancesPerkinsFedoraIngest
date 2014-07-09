@@ -17,7 +17,7 @@
       <dateCreated>October 1909 - January 1911</dateCreated>
     </originInfo>
    <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/perkins/early-years---family/columbia</url>
       <holdingSimple>
         <copyInformation>

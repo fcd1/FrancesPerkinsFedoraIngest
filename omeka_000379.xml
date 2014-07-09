@@ -16,7 +16,7 @@
       <dateCreated>March 8, 1933</dateCreated>
     </originInfo>
    <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
             <shelfLocator>Box Cat. Corr Perkins</shelfLocator>

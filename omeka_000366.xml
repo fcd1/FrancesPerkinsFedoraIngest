@@ -17,7 +17,7 @@
       <dateCreated>Fiscal year ended June 30, 1937</dateCreated>
     </originInfo>
    <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <holdingSimple>
         <copyInformation>
             <shelfLocator>Box 151</shelfLocator>

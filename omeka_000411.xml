@@ -16,7 +16,7 @@
       <dateCreated>circa April 1933</dateCreated>
     </originInfo>
    <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/perkins/working-conditions/a-good-job</url>
       <holdingSimple>
         <copyInformation>
